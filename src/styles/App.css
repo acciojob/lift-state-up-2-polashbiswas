@@ -1,1 +1,17 @@
-
+.parent{
+    background-color: greenyellow;
+    height: 200px;
+}
+.parent h1{
+    margin-left: 1rem;
+}
+.child{
+    background-color: orange;
+    margin: 2rem 1rem;
+}
+.child h2{
+    padding-top: 1rem;
+}
+.msg{
+    margin-left: 1rem;
+}
